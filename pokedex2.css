@@ -1,0 +1,13 @@
+#pokedex {
+    width: 180px;
+    border: 11px;
+    border-style: solid;
+    border-color: red;
+    position: relative;
+    left: 1000px;
+    top: 550px;
+}
+
+#pokemon {
+    width: 1000px;
+}
